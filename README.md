@@ -8,7 +8,7 @@ A modern professional networking platform built with the MERN stack, enabling us
 ![MongoDB](https://img.shields.io/badge/MongoDB-8.14-47A248?style=flat&logo=mongodb&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
-## 🚀 Features
+## Features
 
 - **User Authentication**: Secure signup and login with JWT-based authentication
 - **Professional Profiles**: Create and customize your professional profile
@@ -17,7 +17,7 @@ A modern professional networking platform built with the MERN stack, enabling us
 - **Real-time Notifications**: Stay updated with connection requests and interactions
 - **Responsive Design**: Modern UI built with React and DaisyUI/Tailwind CSS
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -42,7 +42,7 @@ A modern professional networking platform built with the MERN stack, enabling us
 - **Cloudinary** - Image upload and storage
 - **CORS** - Cross-origin resource sharing
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 MeConnect/
@@ -104,7 +104,7 @@ MeConnect/
 └── README.md
 ```
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -178,7 +178,7 @@ npm run build
 npm start
 ```
 
-## 🔧 API Endpoints
+## API Endpoints
 
 ### Authentication
 
@@ -213,15 +213,15 @@ npm start
 - `PUT /api/v1/notifications/:id/read` - Mark as read
 - `DELETE /api/v1/notifications/:id` - Delete notification
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Authors
+## Authors
 
 **Mohamed Ramadan**, **Omar Wahid**, **Abdelrahman Ahmed**
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
